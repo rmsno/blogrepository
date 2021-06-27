@@ -1,0 +1,22 @@
+MCIT blog website for project1, contians homepage , blog page for articals , links for social media and MCIT website and about us for informations.
+html= basics
+css=design
+javascript= pictures in the homepage swapping
+visual studio code = used to write code on
+git= repository
+github= push code
+bootstrap= desgin header footer and for buttons
+screenshot=for interfaces
+-
+
+first= sketch the output for pages to understand what should i put in the webpage
+2- select bootstrap and edit it 
+3- start doing html for basics needs
+4- css&javascript to desgin and color frontend by doing classes and insert it into style.css
+5- test webpages and check the links and output 
+6- create blogrepository in github
+6- git write command to push link the repository
+
+
+repository:
+create directory then convert it into repository by command add 
